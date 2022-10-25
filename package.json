@@ -1,0 +1,15 @@
+{
+  "name": "day-2-pokemon-search-engine-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  }
+}

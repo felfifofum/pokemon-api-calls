@@ -1,0 +1,13 @@
+body {
+  background-color: yellow;
+}
+
+main {
+  margin-bottom: 500px;
+}
+
+.name-title {
+  color: green;
+  font-weight: 700;
+  font-size: larger;
+}
